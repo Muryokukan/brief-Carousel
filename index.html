@@ -5,31 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 
-    <style>
-        #carouselSlides {
-            display: flex;
-        }
-        figure {
-            margin: 0;
-            flex-shrink: 0;
-            width: 100%;
-        }
-    </style>
-
-    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
-    <div class="buttons">
-        <input type="button" id="prevButton" class="button" value="Précédent">
-        <input type="button" id="nextButton" class="button" value="Suivant">
+    <div class="carouselHolder">
+        <div id="carouselSlides">
+            <figure id="img1"><img src="ressources/macron1.jpg" alt="" ></figure>
+            <figure id="img2"><img src="ressources/macron3.jpg" alt="" ></figure>
+            <figure id="img3"><img src="ressources/macron2.jpg" alt="" ></figure>
+        </div>
+        <div class="buttons">
+            <input type="button" id="prevButton" class="button" value="Précédent">
+            <input type="button" id="nextButton" class="button" value="Suivant">
+        </div>
     </div>
-    <div id="carouselSlides">
-        <figure id="img1"><img src="ressources/macron1.jpg" alt="" ></figure>
-        <figure id="img2"><img src="ressources/macron3.jpg" alt="" ></figure>
-        <figure id="img3"><img src="ressources/macron2.jpg" alt="" ></figure>
-    </div>
-
     <script src="script.js"></script>
 
 </body>
