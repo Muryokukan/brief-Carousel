@@ -5,15 +5,15 @@
 ## Aperçu du projet
 *Simple carousel sous le regard de notre cher Président !*.
 
-## 🎯 Objectifs
+## Objectifs
 - **Possibilité d'aller à gauche ou à droite !'** : rien de plus pour l'instant'.
 
-## 🏗️ Technologies utilisées
+## Technologies utilisées
 - **HTML5** : structure sémantique et optimisée pour le SEO.
 - **SCSS** : Architecture 7 - 1 du css.
 - **JavaScript (Vanilla)** : interactivité légère (menu responsive, formulaires dynamiques).
 
-## 📁 Structure des pages
+## Structure des pages
 ```text
 > ressources
 ├── scss
@@ -35,7 +35,7 @@
 │   └── scriptTest.js    # Script de test JavaScript
 ```  
 
-## 📜 Licence
+## Licence
 Ce projet est distribué sous la **Licence MIT**. Vous êtes libres de copier, modifier et redistribuer ce code à condition d’inclure le texte de la licence et les mentions de copyright.
 
 ---
