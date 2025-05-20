@@ -15,7 +15,7 @@
 
 ## Structure des pages
 ```text
-> ressources
+
 ├── scss
 │   ├── _components.scss # Styles des composants
 │   ├── _footer.scss     # Styles du pied de page
@@ -30,9 +30,8 @@
 │   └── style.scss       # Fichier principal SCSS
 ├── index.html           # Page d’accueil
 ├── README.md            # Documentation du projet
-├── JS
-│   ├── script.js        # Script principal JavaScript
-│   └── scriptTest.js    # Script de test JavaScript
+└── JS
+    └── script.js        # Script principal JavaScript
 ```  
 
 ## Licence
