@@ -15,7 +15,10 @@
 
 ## Structure des pages
 ```text
-
+├── ressources
+│   ├── img1.jpg
+│   ├── img2.jpg
+│   └── img3.jpg
 ├── scss
 │   ├── abstracts
 │   ├── base
